@@ -5,7 +5,7 @@ Jian Hou, Huaqiang Yuan, Marcello Pelillo. Game-Theoretic Hypergraph Matching wi
 
 Dependency
 
-You may need to compile the codes in the "ann_mwrapper" , "pwmetric" and "vlfeat-0.9.19" folders.  These three third-party libraries are used in approximate knn, similarity/distance calculation and SIFT feature detection.
+You may need to compile the codes in the "ann_mwrapper" and "vlfeat-0.9.19" folders. These two third-party libraries are used in approximate knn and SIFT feature detection.
 
 Tested with Matlab R2010b.
 
